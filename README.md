@@ -1,1 +1,6 @@
 # Principles-Data-Anlytics-E-commerce-Shipping-Project-E-Commerce-Shipping-DataData-Project
+Exploratory Data Analysis and Hypothesis Testing 
+## Introduction
+In this tech-driven era, the practive of online shopping has become deeply ingrained in the habits of the individuals. As a result, there is a growing quick but also safe, ensuring that products arrive to the destination on time.Sahoo et al. (2021) highlighted the pivotal role in shipping methodologies,including air, sea, and road, that have different inherent transport risks and serves as key performance indicators affecting the time of arrival. Nie (2022) further proposed that the modes of shipment are chosen based on the speed, safety, reliability, and cost-effectiveness.Hence , the transportation mode is an essential decision, especially for the e-commerce delivery. 
+
+Moreover, in this project, the objective is to identify how different methods affect the time of arrival by using the hypothesis testing one-way ANOVA, which is using two different approcahes, and Kruskal-Wallis. The findings will show in statistical measure in graph which is examining the relationship. Lastly, the result will benefit the e-commerce company to support their comapny's project and support their assumption before putting them into action.
